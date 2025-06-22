@@ -1,3 +1,26 @@
-# What-to-Watch-Next
-Content-based Movie Recommendation System
-Developed a content-based movie recommendation system using Python, NumPy, Pandas, NLTK, and Scikit-learn. Responsible for data preprocessing, feature extraction using NLTK, and building the recommendation model. The system suggests five similar movies based on a given movie, ensuring accurate recommendations through training and evaluation. This project enhanced user experience by providing personalized movie recommendations, showcasing proficiency in data handling, natural language processing, and machine learning techniques.
+# 🎬 Movie Recommender System
+
+A content-based movie recommendation engine that suggests similar movies based on genre, cast, keywords, and overview. Built using Python, NLP, and cosine similarity.
+
+## 🚀 Features
+- Combines metadata into a unified 'tags' feature
+- Uses CountVectorizer and cosine similarity for recommendations
+- Recommends top 5 similar movies for any given input
+
+## 🧰 Tech Stack
+- Python
+- Pandas, NumPy
+- scikit-learn
+- NLTK (for text preprocessing)
+
+## 🧠 Recommendation Logic
+- Preprocess text using stemming and stopword removal
+- Vectorize using CountVectorizer
+- Compute similarity matrix and return top results
+
+## ✅ Example
+Input: `Inception`  
+Output: `[Interstellar, The Prestige, The Matrix, Memento, Shutter Island]`
+
+---
+
