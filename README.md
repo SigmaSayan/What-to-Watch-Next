@@ -1,4 +1,4 @@
-# 🎬 Movie Recommender System
+# 🎬 What To Watch Next
 
 A content-based movie recommendation engine that suggests similar movies based on genre, cast, keywords, and overview. Built using Python, NLP, and cosine similarity.
 
@@ -24,3 +24,8 @@ Output: `[Interstellar, The Prestige, The Matrix, Memento, Shutter Island]`
 
 ---
 
+## ✍️ Author
+
+**Sayan Das**  
+*B.Tech + M.Tech in Mechanical & Financial Engineering*  
+*Indian Institute of Technology, Kharagpur (IIT Kharagpur)*
