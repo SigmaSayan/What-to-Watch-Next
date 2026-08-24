@@ -1,6 +1,6 @@
-# 🎬 What To Watch Next
+# 🎬 NLP Powered Content Recommendation System
 
-A content-based movie recommendation engine that suggests similar movies based on genre, cast, keywords, and overview. Built using Python, NLP, and cosine similarity.
+A content-based NLP powered recommendation engine that suggests similar movies based on genre, cast, keywords, and overview. Built using Python, NLP, and cosine similarity.
 
 ---
 
